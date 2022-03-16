@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... node.js and Python
-- 🌱 I’m currently learning ... React.js, node.js and Python
+- 🌱 I’m currently learning ... React, node.js and Python
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
