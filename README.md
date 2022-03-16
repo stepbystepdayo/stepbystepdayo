@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ... [my portfolio](sayolovingfoss.com)
+- 📫 How to reach me: ... [my portfolio](https://sayolovingfoss.com/)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am Japanese
 -->
