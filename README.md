@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [my portfolio](https://sayolovingfoss.com/)
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I am Japanese
+- ⚡ Fun fact: ... I'm from Japanese
 -->
