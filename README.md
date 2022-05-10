@@ -1,7 +1,8 @@
 
 ![greeting](https://res.cloudinary.com/dtari8knz/image/upload/v1652206928/github_jk1zpb.jpg)
 
-<h1 align="center"> Hello! I am Sayo Lovingfoss</h1>
+<h2 align="center"> Hi, there!</h2>
+<h1 align="center"> I am Sayo Lovingfoss</h1>
 
 
 Here are some ideas to get you started:
